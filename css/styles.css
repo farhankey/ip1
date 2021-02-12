@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(250, 33, 33);
+    background-color: #f1ecec;
 }
 h1{
     color: blue;
@@ -11,4 +11,7 @@ p{
 }
 #passion{
     font-size: larger;
+}
+h3{
+    color: hotpink;
 }
